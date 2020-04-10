@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Crystal_GND24_Small
+D Four pin crystal, two ground/package pins (pin2 and 4) small symbol
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+#End Doc Library
