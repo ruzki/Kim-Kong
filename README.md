@@ -1,4 +1,4 @@
-# Kim-Kong
+# Kim Kong
 Daughterboard based on STM32F407VGT6 for the Speeduino ECU Project <br />
 License <br />
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
